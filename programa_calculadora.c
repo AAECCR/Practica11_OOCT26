@@ -1,4 +1,4 @@
-/*Alfonso Francisco De Abiega L'Eglisse
+/*Cortés Romero Alberto Emiliano
 Ejercicio clase
 calculadora*/
 
